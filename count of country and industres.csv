@@ -1,0 +1,158 @@
+country,Industry,count(industry)
+Argentina,"Financial Services",1
+Australia,"Consumer & Retail",1
+Australia,"Enterprise Tech",4
+Australia,"Financial Services",1
+Australia,Industrials,1
+Australia,"Media & Entertainment",2
+Austria,"Consumer & Retail",1
+Austria,"Financial Services",1
+Belgium,"Consumer & Retail",1
+Belgium,"Enterprise Tech",2
+Bermuda,"Enterprise Tech",1
+Brazil,"Consumer & Retail",4
+Brazil,"Enterprise Tech",1
+Brazil,"Financial Services",9
+Brazil,Industrials,2
+Brazil,"Media & Entertainment",1
+Canada,"Consumer & Retail",3
+Canada,"Enterprise Tech",10
+Canada,"Financial Services",4
+Canada,"Healthcare & Life Sciences",1
+Canada,Industrials,2
+Canada,"Media & Entertainment",1
+"Cayman Islands","Enterprise Tech",1
+Chile,"Consumer & Retail",1
+Chile,"Enterprise Tech",1
+China,"Consumer & Retail",50
+China,"Enterprise Tech",31
+China,"Financial Services",7
+China,"Healthcare & Life Sciences",13
+China,Industrials,53
+China,"Media & Entertainment",14
+Colombia,"Consumer & Retail",2
+Colombia,"Financial Services",1
+Croatia,"Enterprise Tech",1
+Croatia,Industrials,1
+"Czech Republic","Consumer & Retail",1
+Denmark,"Enterprise Tech",1
+Denmark,"Financial Services",1
+Ecuador,"Financial Services",1
+Egypt,"Financial Services",1
+Estonia,"Enterprise Tech",1
+Estonia,Industrials,1
+Finland,"Consumer & Retail",1
+Finland,"Enterprise Tech",1
+Finland,"Healthcare & Life Sciences",1
+Finland,Industrials,1
+France,"Consumer & Retail",7
+France,"Enterprise Tech",7
+France,"Financial Services",3
+France,"Healthcare & Life Sciences",3
+France,Industrials,2
+France,Insurance,1
+France,"Media & Entertainment",3
+Germany,"Consumer & Retail",9
+Germany,"Enterprise Tech",7
+Germany,"Financial Services",5
+Germany,"Healthcare & Life Sciences",1
+Germany,Industrials,8
+Germany,Insurance,1
+Greece,"Enterprise Tech",1
+Greece,"Financial Services",1
+"Hong Kong","Consumer & Retail",3
+"Hong Kong","Financial Services",4
+India,"Consumer & Retail",26
+India,"Enterprise Tech",8
+India,"Financial Services",17
+India,"Healthcare & Life Sciences",2
+India,Industrials,10
+India,Insurance,2
+India,"Media & Entertainment",6
+Indonesia,"Consumer & Retail",2
+Indonesia,"Financial Services",4
+Indonesia,Industrials,1
+Ireland,"Consumer & Retail",1
+Ireland,"Enterprise Tech",2
+Ireland,"Financial Services",2
+Ireland,"Healthcare & Life Sciences",1
+Ireland,Industrials,1
+Israel,"Enterprise Tech",15
+Israel,"Financial Services",1
+Israel,"Healthcare & Life Sciences",2
+Israel,Industrials,3
+Israel,Insurance,1
+Israel,"Media & Entertainment",3
+Italy,"Consumer & Retail",1
+Italy,"Financial Services",2
+Japan,"Enterprise Tech",1
+Japan,"Financial Services",1
+Japan,Industrials,3
+Japan,"Media & Entertainment",2
+Liechtenstein,"Enterprise Tech",1
+Lithuania,"Consumer & Retail",1
+Lithuania,"Enterprise Tech",1
+Luxembourg,Industrials,1
+Malaysia,Industrials,1
+Mexico,"Consumer & Retail",1
+Mexico,"Financial Services",5
+Mexico,Industrials,2
+Netherlands,"Consumer & Retail",1
+Netherlands,"Enterprise Tech",4
+Netherlands,"Financial Services",4
+Nigeria,"Financial Services",1
+Norway,"Consumer & Retail",2
+Norway,"Enterprise Tech",1
+Norway,Industrials,1
+Philippines,Industrials,1
+"Saudi Arabia","Financial Services",1
+Senegal,"Financial Services",1
+Seychelles,"Financial Services",2
+Singapore,"Consumer & Retail",4
+Singapore,"Enterprise Tech",1
+Singapore,"Financial Services",6
+Singapore,Industrials,4
+Singapore,Insurance,1
+Singapore,"Media & Entertainment",1
+"South Africa","Consumer & Retail",1
+"South Korea","Consumer & Retail",8
+"South Korea","Enterprise Tech",2
+"South Korea","Financial Services",2
+"South Korea",Industrials,1
+"South Korea","Media & Entertainment",2
+Spain,"Enterprise Tech",3
+Spain,Industrials,2
+Sweden,"Financial Services",1
+Sweden,"Healthcare & Life Sciences",1
+Sweden,Industrials,3
+Sweden,"Media & Entertainment",1
+Switzerland,"Enterprise Tech",4
+Switzerland,"Financial Services",1
+Switzerland,Health,1
+Thailand,"Consumer & Retail",1
+Thailand,"Financial Services",1
+Thailand,Industrials,1
+Turkey,"Consumer & Retail",1
+Turkey,"Enterprise Tech",1
+Turkey,"Media & Entertainment",1
+"United Arab Emirates","Consumer & Retail",2
+"United Arab Emirates","Enterprise Tech",1
+"United Arab Emirates","Financial Services",1
+"United Arab Emirates",Industrials,1
+"United Kingdom","Consumer & Retail",5
+"United Kingdom","Enterprise Tech",13
+"United Kingdom","Financial Services",20
+"United Kingdom","Healthcare & Life Sciences",3
+"United Kingdom",Industrials,4
+"United Kingdom",Insurance,7
+"United Kingdom","Media & Entertainment",2
+"United States","Consumer & Retail",72
+"United States","Enterprise Tech",260
+"United States","Financial Services",105
+"United States","Healthcare & Life Sciences",89
+"United States",Industrials,74
+"United States",Insurance,13
+"United States","Media & Entertainment",43
+Uzbekistan,"Financial Services",1
+Vietnam,"Financial Services",1
+Vietnam,"Media & Entertainment",1

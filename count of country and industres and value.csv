@@ -1,0 +1,158 @@
+country,Industry,count(industry),Valuation_in_B
+Argentina,"Financial Services",1,2
+Australia,"Consumer & Retail",1,1
+Australia,"Enterprise Tech",4,25
+Australia,"Financial Services",1,6
+Australia,Industrials,1,2
+Australia,"Media & Entertainment",2,3
+Austria,"Consumer & Retail",1,4
+Austria,"Financial Services",1,4
+Belgium,"Consumer & Retail",1,1
+Belgium,"Enterprise Tech",2,5
+Bermuda,"Enterprise Tech",1,2
+Brazil,"Consumer & Retail",4,3
+Brazil,"Enterprise Tech",1,3
+Brazil,"Financial Services",9,5
+Brazil,Industrials,2,2
+Brazil,"Media & Entertainment",1,3
+Canada,"Consumer & Retail",3,5
+Canada,"Enterprise Tech",10,7
+Canada,"Financial Services",4,3
+Canada,"Healthcare & Life Sciences",1,4
+Canada,Industrials,2,1
+Canada,"Media & Entertainment",1,8
+"Cayman Islands","Enterprise Tech",1,1
+Chile,"Consumer & Retail",1,2
+Chile,"Enterprise Tech",1,1
+China,"Consumer & Retail",50,16
+China,"Enterprise Tech",31,12
+China,"Financial Services",7,6
+China,"Healthcare & Life Sciences",13,7
+China,Industrials,53,15
+China,"Media & Entertainment",14,225
+Colombia,"Consumer & Retail",2,5
+Colombia,"Financial Services",1,1
+Croatia,"Enterprise Tech",1,1
+Croatia,Industrials,1,2
+"Czech Republic","Consumer & Retail",1,1
+Denmark,"Enterprise Tech",1,5
+Denmark,"Financial Services",1,2
+Ecuador,"Financial Services",1,2
+Egypt,"Financial Services",1,1
+Estonia,"Enterprise Tech",1,2
+Estonia,Industrials,1,8
+Finland,"Consumer & Retail",1,6
+Finland,"Enterprise Tech",1,3
+Finland,"Healthcare & Life Sciences",1,3
+Finland,Industrials,1,1
+France,"Consumer & Retail",7,6
+France,"Enterprise Tech",7,6
+France,"Financial Services",3,1
+France,"Healthcare & Life Sciences",3,6
+France,Industrials,2,2
+France,Insurance,1,1
+France,"Media & Entertainment",3,4
+Germany,"Consumer & Retail",9,2
+Germany,"Enterprise Tech",7,13
+Germany,"Financial Services",5,9
+Germany,"Healthcare & Life Sciences",1,4
+Germany,Industrials,8,3
+Germany,Insurance,1,5
+Greece,"Enterprise Tech",1,1
+Greece,"Financial Services",1,2
+"Hong Kong","Consumer & Retail",3,2
+"Hong Kong","Financial Services",4,2
+India,"Consumer & Retail",26,12
+India,"Enterprise Tech",8,3
+India,"Financial Services",17,8
+India,"Healthcare & Life Sciences",2,2
+India,Industrials,10,8
+India,Insurance,2,4
+India,"Media & Entertainment",6,8
+Indonesia,"Consumer & Retail",2,3
+Indonesia,"Financial Services",4,2
+Indonesia,Industrials,1,1
+Ireland,"Consumer & Retail",1,1
+Ireland,"Enterprise Tech",2,4
+Ireland,"Financial Services",2,2
+Ireland,"Healthcare & Life Sciences",1,1
+Ireland,Industrials,1,1
+Israel,"Enterprise Tech",15,10
+Israel,"Financial Services",1,1
+Israel,"Healthcare & Life Sciences",2,1
+Israel,Industrials,3,2
+Israel,Insurance,1,2
+Israel,"Media & Entertainment",3,5
+Italy,"Consumer & Retail",1,3
+Italy,"Financial Services",2,1
+Japan,"Enterprise Tech",1,2
+Japan,"Financial Services",1,1
+Japan,Industrials,3,2
+Japan,"Media & Entertainment",2,2
+Liechtenstein,"Enterprise Tech",1,1
+Lithuania,"Consumer & Retail",1,5
+Lithuania,"Enterprise Tech",1,3
+Luxembourg,Industrials,1,2
+Malaysia,Industrials,1,2
+Mexico,"Consumer & Retail",1,1
+Mexico,"Financial Services",5,2
+Mexico,Industrials,2,9
+Netherlands,"Consumer & Retail",1,1
+Netherlands,"Enterprise Tech",4,4
+Netherlands,"Financial Services",4,7
+Nigeria,"Financial Services",1,2
+Norway,"Consumer & Retail",2,1
+Norway,"Enterprise Tech",1,1
+Norway,Industrials,1,2
+Philippines,Industrials,1,1
+"Saudi Arabia","Financial Services",1,1
+Senegal,"Financial Services",1,2
+Seychelles,"Financial Services",2,10
+Singapore,"Consumer & Retail",4,66
+Singapore,"Enterprise Tech",1,1
+Singapore,"Financial Services",6,3
+Singapore,Industrials,4,4
+Singapore,Insurance,1,2
+Singapore,"Media & Entertainment",1,1
+"South Africa","Consumer & Retail",1,2
+"South Korea","Consumer & Retail",8,4
+"South Korea","Enterprise Tech",2,2
+"South Korea","Financial Services",2,7
+"South Korea",Industrials,1,3
+"South Korea","Media & Entertainment",2,1
+Spain,"Enterprise Tech",3,2
+Spain,Industrials,2,1
+Sweden,"Financial Services",1,7
+Sweden,"Healthcare & Life Sciences",1,2
+Sweden,Industrials,3,9
+Sweden,"Media & Entertainment",1,1
+Switzerland,"Enterprise Tech",4,5
+Switzerland,"Financial Services",1,1
+Switzerland,Health,1,1
+Thailand,"Consumer & Retail",1,1
+Thailand,"Financial Services",1,2
+Thailand,Industrials,1,1
+Turkey,"Consumer & Retail",1,9
+Turkey,"Enterprise Tech",1,2
+Turkey,"Media & Entertainment",1,3
+"United Arab Emirates","Consumer & Retail",2,2
+"United Arab Emirates","Enterprise Tech",1,1
+"United Arab Emirates","Financial Services",1,2
+"United Arab Emirates",Industrials,1,3
+"United Kingdom","Consumer & Retail",5,1
+"United Kingdom","Enterprise Tech",13,11
+"United Kingdom","Financial Services",20,33
+"United Kingdom","Healthcare & Life Sciences",3,3
+"United Kingdom",Industrials,4,2
+"United Kingdom",Insurance,7,5
+"United Kingdom","Media & Entertainment",2,3
+"United States","Consumer & Retail",72,31
+"United States","Enterprise Tech",260,80
+"United States","Financial Services",105,65
+"United States","Healthcare & Life Sciences",89,13
+"United States",Industrials,74,150
+"United States",Insurance,13,5
+"United States","Media & Entertainment",43,23
+Uzbekistan,"Financial Services",1,1
+Vietnam,"Financial Services",1,2
+Vietnam,"Media & Entertainment",1,3

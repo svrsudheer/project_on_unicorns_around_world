@@ -1,0 +1,72 @@
+S_no,Company,"Valuation ($B)","Date Joined",Country,City,Industry
+33,BYJU's,12,7/25/2017,India,Bengaluru,"Consumer & Retail"
+56,"OYO Rooms",9,9/25/2018,India,Gurugram,"Consumer & Retail"
+70,Swiggy,8,6/21/2018,India,Bengaluru,"Consumer & Retail"
+71,Dream11,8,4/9/2019,India,Mumbai,"Media & Entertainment"
+78,Razorpay,8,10/11/2020,India,Bengaluru,"Financial Services"
+95,"National Stock Exchange of India",7,7/1/2020,India,Mumbai,"Financial Services"
+97,Ola,8,10/27/2014,India,Bengaluru,Industrials
+99,CRED,6,4/6/2021,India,Bengaluru,"Financial Services"
+138,OfBusiness,5,7/31/2021,India,Gurgaon,Industrials
+140,"Pine Labs",5,1/24/2020,India,Noida,"Financial Services"
+142,"Ola Electric Mobility",6,7/2/2019,India,Bengaluru,Industrials
+145,"VerSe Innovation",5,12/22/2020,India,Bengaluru,"Media & Entertainment"
+146,ShareChat,5,4/8/2021,India,Bengaluru,"Media & Entertainment"
+149,Meesho,4,4/5/2021,India,Bengaluru,"Consumer & Retail"
+167,Lenskart,5,12/20/2019,India,Faridabad,"Consumer & Retail"
+208,"Digit Insurance",4,1/15/2021,India,Bengaluru,Insurance
+243,Unacademy,3,9/2/2020,India,Bengaluru,"Consumer & Retail"
+246,Upstox,3,11/29/2021,India,Mumbai,"Financial Services"
+254,Cars24,3,11/24/2020,India,Gurgaon,Industrials
+260,"Eruditus Executive Education",3,8/12/2021,India,Mumbai,"Enterprise Tech"
+296,Groww,3,4/7/2021,India,Bengaluru,"Financial Services"
+309,BharatPe,3,7/30/2021,India,"New Delhi","Financial Services"
+350,Infra.Market,3,2/25/2021,India,Thane,Industrials
+356,Zetwerk,3,8/20/2021,India,Bengaluru,Industrials
+362,Games24x7,3,3/30/2022,India,Mumbai,"Media & Entertainment"
+368,"Mobile Premier League",2,9/15/2021,India,Bengaluru,"Media & Entertainment"
+413,CoinDCX,2,8/10/2021,India,Maharashtra,"Financial Services"
+415,"Urban Company",2,4/27/2021,India,Gurgaon,"Consumer & Retail"
+420,FirstCry,4,2/7/2020,India,Pune,"Consumer & Retail"
+495,UpGrad,2,8/9/2021,India,Mumbai,"Consumer & Retail"
+512,CoinSwitch,2,10/6/2021,India,Bangalore,"Financial Services"
+531,Slice,2,11/28/2021,India,Bengaluru,"Financial Services"
+536,Spinny,2,11/24/2021,India,Gurugram,Industrials
+543,Udaan,2,9/4/2018,India,Bengaluru,"Consumer & Retail"
+569,DealShare,2,1/27/2022,India,Bengaluru,"Consumer & Retail"
+654,cult.fit,2,11/10/2021,India,Bengaluru,"Healthcare & Life Sciences"
+661,ElasticRun,2,2/7/2022,India,Pune,Industrials
+690,Zepto,1,8/25/2023,India,Mumbai,"Consumer & Retail"
+691,Amagi,1,3/16/2022,India,Bengaluru,"Media & Entertainment"
+694,Xpressbees,1,2/9/2022,India,Pune,"Consumer & Retail"
+711,"Rebel Foods",1,10/7/2021,India,Pune,"Consumer & Retail"
+718,OneCard,1,7/13/2022,India,Pune,"Financial Services"
+719,boAT,1,10/28/2022,India,Mumbai,"Consumer & Retail"
+751,Shiprocket,1,8/16/2022,India,"New Delhi","Consumer & Retail"
+770,Yubi,2,3/7/2022,India,Chennai,"Financial Services"
+835,CarDekho,1,10/13/2021,India,Jaipur,Industrials
+836,"The Good Glamm Group",1,11/10/2021,India,Mumbai,"Consumer & Retail"
+838,"Pristyn Care",1,12/7/2021,India,Gurugram,"Healthcare & Life Sciences"
+843,LivSpace,1,2/8/2022,India,Bengaluru,"Consumer & Retail"
+881,Krutrim,1,1/26/2024,India,Bengaluru,"Enterprise Tech"
+904,apna,1,9/15/2021,India,Bengaluru,"Enterprise Tech"
+907,"Acko General Insurance",1,10/28/2021,India,Bengaluru,Insurance
+912,GlobalBees,1,12/28/2021,India,"New Delhi","Consumer & Retail"
+913,LEAD,1,1/13/2022,India,Andheri,"Consumer & Retail"
+922,PhysicsWallah,1,6/7/2022,India,"Uttar Pradesh","Consumer & Retail"
+924,Purplle,1,6/9/2022,India,Mumbai,"Consumer & Retail"
+931,InCred,1,11/9/2023,India,Mumbai,"Financial Services"
+942,BlackBuck,1,7/22/2021,India,Bengaluru,Industrials
+946,Perfios,1,3/13/2024,India,Mumbai,"Financial Services"
+990,Snapdeal,1,5/21/2014,India,"New Delhi","Consumer & Retail"
+993,InMobi,1,12/2/2014,India,Bengaluru,"Enterprise Tech"
+1134,Vedantu,1,9/29/2021,India,Bengaluru,"Consumer & Retail"
+1137,Licious,1,10/5/2021,India,Bengaluru,"Consumer & Retail"
+1143,MobiKwik,1,10/13/2021,India,Gurugram,"Financial Services"
+1157,"Mensa Brands",1,11/16/2021,India,Bengaluru,"Consumer & Retail"
+1163,NoBroker,1,11/23/2021,India,Bengaluru,"Financial Services"
+1183,"Fractal Analytics",1,1/5/2022,India,Mumbai,"Enterprise Tech"
+1187,Darwinbox,1,1/25/2022,India,Hyderabad,"Enterprise Tech"
+1197,Hasura,1,2/22/2022,India,Bengaluru,"Enterprise Tech"
+1220,Open,1,5/2/2022,India,Bengaluru,"Financial Services"
+1228,LeadSquared,1,6/21/2022,India,Bengaluru,"Enterprise Tech"
